@@ -2,8 +2,6 @@
 
 
 
-![BVF](/images/Slide10.JPG)
-
 # Retail Banking Components
 ##    [Savings account](https://en.wikipedia.org/wiki/Savings_account)
 ##    [Recurring deposit account](https://en.wikipedia.org/wiki/Recurring_deposit)
@@ -29,6 +27,7 @@
 
 
 # Reference Architecture
+
 
 
 
