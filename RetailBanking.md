@@ -66,8 +66,8 @@ Generative AI: Implementing AI-powered assistants and chatbots to provide real-t
 
 ## Retail Banking Components
 [Savings account](https://en.wikipedia.org/wiki/Savings_account)
-[Recurring deposit account](https://en.wikipedia.org/wiki/Recurring_deposit)
-[Fixed deposit account](https://en.wikipedia.org/wiki/Fixed_deposit)
+ [Recurring deposit account](https://en.wikipedia.org/wiki/Recurring_deposit)
+ [Fixed deposit account](https://en.wikipedia.org/wiki/Fixed_deposit)
 [Money market account](https://en.wikipedia.org/wiki/Money_market_account)
 [Certificate of deposit (CD)](https://en.wikipedia.org/wiki/Certificate_of_deposit)
 [Individual retirement account (IRA)](https://en.wikipedia.org/wiki/Individual_retirement_account)
@@ -140,6 +140,7 @@ CRM / Customer 360°
 Data Analytics & AI (Personalization, Risk Scoring)
 
 Cybersecurity & Identity Management
+
 
 
 
