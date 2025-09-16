@@ -9,7 +9,7 @@ The modern banking industry is a network of financial institutions licensed by t
 ## Banking Services
 
 2. [Retail Banking](RetailBanking.md)
-3. [Business (or commercial/investment) Banking](CommercialBanking.md)
+3. [Business / commercial / investment Banking](CommercialBanking.md)
 4. [Payment Banking](PaymentBanking.md)
 
 ## Risk Management
@@ -25,6 +25,7 @@ The modern banking industry is a network of financial institutions licensed by t
 ## Innovations in Banking Industry
 
 8. [Innovation in Banking Industry](Innovation.md)
+
 
 
 
