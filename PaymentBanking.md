@@ -2,4 +2,3 @@
 
 
 
-![BVF](/images/Slide38.JPG)
