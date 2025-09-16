@@ -102,7 +102,7 @@ Generative AI: Implementing AI-powered assistants and chatbots to provide real-t
 [Real-time gross settlement (RTGS)](https://en.wikipedia.org/wiki/Real-time_gross_settlement)
 
 
-# Business Domain Model
+## Business Domain Model
 
 🏦 Retail Banking Business Domain Model
 
@@ -157,6 +157,7 @@ CRM / Customer 360°
 Data Analytics & AI (Personalization, Risk Scoring)
 
 Cybersecurity & Identity Management
+
 
 
 
