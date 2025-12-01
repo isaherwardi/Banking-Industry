@@ -2,7 +2,7 @@
 
 The banking industry is a core component of a nation's economy, responsible for managing financial transactions and providing financial services to individuals, businesses, and governments. At its heart, a bank's primary function is to act as a financial intermediary, taking deposits from those with surplus funds and lending them to those who need capital. This process facilitates the flow of money, enabling economic activity and growth.
 
-
+![Banking Induastry](/images/Banking.jpg)
 
 Key Functions of Banks
 Accepting Deposits: Banks provide a secure place for individuals and businesses to store their money through various types of accounts like checking, savings, and fixed deposits. They pay interest on these deposits, turning them into a source of funding for the bank.
@@ -68,6 +68,7 @@ Cybersecurity: As banking becomes more digital, robust cybersecurity measures ar
 ## Innovations in Banking Industry
 
 8. [Innovation in Banking Industry](Innovation.md)
+
 
 
 
