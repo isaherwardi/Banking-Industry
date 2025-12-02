@@ -4,7 +4,7 @@ The banking industry is a core component of a nation's economy, responsible for 
 
 
 
-!\[Bank](//images/Banking.jpg)
+!\[Bank](images/Banking.jpg)
 
 
 
@@ -77,6 +77,7 @@ Cybersecurity: As banking becomes more digital, robust cybersecurity measures ar
 ## Innovations in Banking Industry
 
 8. [Innovation in Banking Industry](Innovation.md)
+
 
 
 
