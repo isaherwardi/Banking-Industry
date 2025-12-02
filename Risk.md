@@ -88,3 +88,4 @@ AML/KYC laws – global compliance.
 Risk management in banking is about identifying, assessing, mitigating, and monitoring risks across credit, market, operational, and compliance domains, supported by governance frameworks, advanced analytics, and regulatory standards to ensure stability and resilience.
 
 
+
