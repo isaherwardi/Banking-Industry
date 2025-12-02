@@ -70,6 +70,17 @@ Cybersecurity: As banking becomes more digital, robust cybersecurity measures ar
 8. [Innovation in Banking Industry](Innovation.md)
 
 
+## Industry Evolution and Technology Trends
+![BFSI Diagram](/images/Slide51.JPG)
 
+![BFSI Diagram](/images/Slide55.JPG)
+
+![BFSI Diagram](/images/Slide56.JPG)
+
+![BFSI Diagram](/images/Slide60.JPG)
+
+![BFSI Diagram](/images/Slide61.JPG)
+
+![BFSI Diagram](/images/Slide63.JPG)
 
 
