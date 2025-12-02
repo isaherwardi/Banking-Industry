@@ -12,17 +12,17 @@ The banking industry is a cornerstone of the global economy, enabling financial 
 
 It is broadly divided into retail banking, corporate banking, investment banking, private banking, and central banking.
 
-!\[Services](Slide6.JPG)
+![Services](images/Slide6.JPG)
 
 \## Banking Eco System
 
-!\[Eco](Slide32.JPG)
+![Eco](images/Slide32.JPG)
 
 
 
 Banking Eco System Future State
 
-!\[Eco](Slide42.JPG)
+![Eco](images/Slide42.JPG)
 
 ✅ Future State Vision
 
@@ -114,7 +114,7 @@ Goal: Serve diverse customer needs through personalized and integrated services.
 
 Open Banking and Emerging Eco System
 
-!\[Eco](Slide45.JPG)
+![Eco](images/Slide45.JPG)
 
 
 
@@ -142,9 +142,9 @@ Sustainability (Green Banking): Financing ESG projects and responsible lending.
 
 ⚖️ Challenges
 
-!\[Challenges](Slide36.JPG)
+![Challenges](images/Slide36.JPG)
 
-!\[Challenges-contd](Slide37.JPG)
+![Challenges-contd](images/Slide37.JPG)
 
 Cybersecurity threats and data privacy risks.
 
@@ -155,4 +155,5 @@ Low interest rate pressures impacting margins in some regions.
 Competition from Big Tech and FinTechs changing customer expectations.
 
 ✅ In summary: The banking industry is evolving from traditional branch-led models to digital-first, customer-centric ecosystems, leveraging AI, FinTech collaboration, and sustainable finance to remain resilient and competitive.
+
 
