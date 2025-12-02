@@ -4,7 +4,7 @@ The banking industry is a core component of a nation's economy, responsible for 
 
 
 
-!\[Bank](Banking.jpg)
+!\[Bank](/images/Banking.jpg)
 
 
 
