@@ -4,6 +4,8 @@ Retail banking, also known as consumer banking or personal banking, is the most 
 
 The core of retail banking is to facilitate the day-to-day financial needs of the general public.
 
+![Retail](Slide10.JPG)
+
 Key Products and Services
 Retail banks offer a wide array of products and services designed to help individuals manage their money, save for the future, and access credit. These include:
 
@@ -103,6 +105,8 @@ Generative AI: Implementing AI-powered assistants and chatbots to provide real-t
 
 
 ## Business Domain Model
+
+![Flow](Slide11.JPG)
 
 🏦 Retail Banking Business Domain Model
 

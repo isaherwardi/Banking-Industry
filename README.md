@@ -4,11 +4,17 @@ The banking industry is a core component of a nation's economy, responsible for 
 
 
 
+!\[Bank](Banking.jpg)
+
+
+
 Key Functions of Banks
 Accepting Deposits: Banks provide a secure place for individuals and businesses to store their money through various types of accounts like checking, savings, and fixed deposits. They pay interest on these deposits, turning them into a source of funding for the bank.
 
 
+
 Lending: Banks use the funds from deposits to grant loans for various purposes, such as mortgages, business expansion, personal loans, and credit lines. The interest earned on these loans is a primary source of a bank's revenue.
+
 
 
 Payment and Settlement Services: Banks enable a wide range of transactions, from facilitating payments through debit and credit cards to processing large-value electronic fund transfers between different financial institutions.
@@ -25,6 +31,7 @@ Commercial Banking: This sector serves businesses, offering services like busine
 Investment Banking: These banks specialize in complex financial transactions for corporations and governments, such as underwriting securities, facilitating mergers and acquisitions, and providing financial advisory services.
 
 Central Banking: A central bank is the primary regulatory authority in a country. It manages the currency, controls the money supply, and sets monetary policy to ensure economic stability.
+
 
 
 Regulation and Oversight
@@ -56,10 +63,12 @@ Cybersecurity: As banking becomes more digital, robust cybersecurity measures ar
 4. [Payment Banking](PaymentBanking.md)
 
 ## Risk Management
+
 5. [Risk Management](Risk.md)
 
-## Governance & Control
-6. [Governance & Control](Governance.md)
+## Governance \& Control
+
+6. [Governance \& Control](Governance.md)
 
 ## Banking Ecosystem
 
@@ -68,8 +77,3 @@ Cybersecurity: As banking becomes more digital, robust cybersecurity measures ar
 ## Innovations in Banking Industry
 
 8. [Innovation in Banking Industry](Innovation.md)
-
-
-
-
-

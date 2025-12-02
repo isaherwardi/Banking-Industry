@@ -1,7 +1,7 @@
-
 # Business / commercial / investment banking
 
-🏦 Business (Commercial & Investment) Banking Domain Model
+🏦 Business (Commercial \& Investment) Banking Domain Model
+
 1. Customer Segments
 
 Commercial Banking: SMEs, large enterprises, government, and institutional clients.
@@ -12,9 +12,11 @@ Investment Banking: Corporates, investors, high-net-worth individuals, governmen
 
 🔹 Commercial Banking
 
+!\[Commercial](Slide18.JPG)
+
 Corporate Lending (working capital, term loans, syndicated loans)
 
-Treasury & Cash Management (liquidity, payments, receivables)
+Treasury \& Cash Management (liquidity, payments, receivables)
 
 Trade Finance (letters of credit, guarantees, supply chain finance)
 
@@ -22,50 +24,56 @@ Merchant Services (POS, corporate cards, digital payments)
 
 🔹 Investment Banking
 
+!\[Investment](Slide20.JPG)
+
+Components of Investment Banking
+
+!\[Investment](Slide21.JPG)
+
 Capital Raising (equity, debt, IPOs, private placements)
 
-Advisory (M&A, restructuring, valuations)
+Advisory (M\&A, restructuring, valuations)
 
-Sales & Trading (equities, fixed income, derivatives, commodities, FX)
+Sales \& Trading (equities, fixed income, derivatives, commodities, FX)
 
-Asset Management & Private Equity
+Asset Management \& Private Equity
 
-Research & Market Intelligence
+Research \& Market Intelligence
 
-3. Risk & Compliance
+3. Risk \& Compliance
 
-Credit & Market Risk Management
+Credit \& Market Risk Management
 
-Liquidity & Interest Rate Risk
+Liquidity \& Interest Rate Risk
 
 Regulatory Compliance (Basel III, Dodd-Frank, MiFID II, SEBI, etc.)
 
-AML & KYC
+AML \& KYC
 
-4. Operations & Infrastructure
+4. Operations \& Infrastructure
 
-Clearing, Settlement & Custody
+Clearing, Settlement \& Custody
 
-Collateral & Margin Management
+Collateral \& Margin Management
 
-Data & Reporting (regulatory, risk, client)
+Data \& Reporting (regulatory, risk, client)
 
-Treasury Systems & Trade Platforms
+Treasury Systems \& Trade Platforms
 
 5. Technology Enablement
 
-Core Banking & Treasury Systems
+Core Banking \& Treasury Systems
 
 Electronic Trading Platforms
 
-AI & Analytics (fraud detection, trading insights)
+AI \& Analytics (fraud detection, trading insights)
 
 Blockchain (trade finance, settlements, tokenization)
 
-Cloud & API ecosystems
+Cloud \& API ecosystems
 
 📊 Simplified Layers (Domain Model):
-Client Segments → Core Banking / Investment Services → Risk & Compliance → Operations → Technology Infrastructure
+Client Segments → Core Banking / Investment Services → Risk \& Compliance → Operations → Technology Infrastructure
 
 ✅ Summary:
 
@@ -86,5 +94,4 @@ Both are underpinned by strong risk management, compliance, and technology platf
 [Term loan](https://en.wikipedia.org/wiki/Term_loan)
 
 [Credit services](https://en.wikipedia.org/wiki/Credit_(finance))
-
 

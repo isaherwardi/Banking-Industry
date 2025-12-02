@@ -1,7 +1,8 @@
 # Risk Management
 
 🏦 Risk Management in Banking Industry
-1. Purpose & Importance
+
+1. Purpose \& Importance
 
 Protect financial stability of banks.
 
@@ -12,6 +13,8 @@ Ensure compliance with regulatory requirements (Basel III/IV, RBI, ECB, Fed, etc
 Build customer and investor trust.
 
 2. Major Types of Risks
+
+!\[Risks](Slide26.JPG)
 
 🔹 Credit Risk – Risk of borrower default (loans, mortgages, bonds).
 
@@ -33,7 +36,7 @@ Includes fraud, cyberattacks, IT outages, human errors.
 
 Managed via liquidity buffers, stress testing, and contingency funding plans.
 
-🔹 Compliance & Regulatory Risk – Non-compliance with AML, KYC, GDPR, Basel norms.
+🔹 Compliance \& Regulatory Risk – Non-compliance with AML, KYC, GDPR, Basel norms.
 
 🔹 Reputational Risk – Negative publicity or loss of stakeholder trust.
 
@@ -41,7 +44,7 @@ Managed via liquidity buffers, stress testing, and contingency funding plans.
 
 Cybersecurity threats.
 
-Climate & ESG risks.
+Climate \& ESG risks.
 
 Geopolitical risks (sanctions, instability).
 
@@ -57,21 +60,21 @@ Three Lines of Defense Model:
 
 Business Units → Own risks.
 
-Risk & Compliance Teams → Monitor & enforce policies.
+Risk \& Compliance Teams → Monitor \& enforce policies.
 
 Internal Audit → Independent assurance.
 
-🔹 Tools & Practices
+🔹 Tools \& Practices
 
-Stress Testing & Scenario Analysis.
+Stress Testing \& Scenario Analysis.
 
-Credit & Market Risk Models (VaR, Expected Credit Loss).
+Credit \& Market Risk Models (VaR, Expected Credit Loss).
 
 Risk-Adjusted Performance Metrics (RAROC, EVA).
 
 Hedging strategies (derivatives, swaps).
 
-Cybersecurity controls & fraud detection systems.
+Cybersecurity controls \& fraud detection systems.
 
 4. Regulatory Oversight
 
