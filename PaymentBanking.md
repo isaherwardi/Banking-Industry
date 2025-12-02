@@ -1,5 +1,5 @@
 # Payment Banking
-![BVF](/images/Slide38.JPG)
+
 💳 Payment Banking Overview
 1. Concept & Purpose
 
@@ -65,8 +65,11 @@ High compliance & operational costs.
 
 Competition from traditional banks & FinTechs.
 
+![BVF](/images/Slide38.JPG)
+
 ✅ In summary:
 Payment Banking is a digital-first, inclusion-driven banking model focused on small savings, payments, and remittances—without lending—powered by mobile and FinTech innovation to serve the underbanked and drive a cashless economy.
+
 
 
 
