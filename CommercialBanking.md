@@ -12,7 +12,7 @@ Investment Banking: Corporates, investors, high-net-worth individuals, governmen
 
 🔹 Commercial Banking
 
-!\[Commercial](Slide18.JPG)
+![Commercial](images/Slide18.JPG)
 
 Corporate Lending (working capital, term loans, syndicated loans)
 
@@ -24,11 +24,11 @@ Merchant Services (POS, corporate cards, digital payments)
 
 🔹 Investment Banking
 
-!\[Investment](Slide20.JPG)
+![Investment](images/Slide20.JPG)
 
 Components of Investment Banking
 
-!\[Investment](Slide21.JPG)
+![Investment](images/Slide21.JPG)
 
 Capital Raising (equity, debt, IPOs, private placements)
 
@@ -94,4 +94,5 @@ Both are underpinned by strong risk management, compliance, and technology platf
 [Term loan](https://en.wikipedia.org/wiki/Term_loan)
 
 [Credit services](https://en.wikipedia.org/wiki/Credit_(finance))
+
 
