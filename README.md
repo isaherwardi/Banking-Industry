@@ -70,13 +70,10 @@ Cybersecurity: As banking becomes more digital, robust cybersecurity measures ar
 
 6. [Governance \& Control](Governance.md)
 
-## Banking Ecosystem
-
-7. [Banking Ecosystem](Eco.md)
-
 ## Innovations in Banking Industry
 
 8. [Innovation in Banking Industry](Innovation.md)
+
 
 
 
