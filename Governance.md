@@ -2,7 +2,7 @@
 
 Governance and control in banking refer to the framework of rules, processes, and policies that ensure a bank is managed in a responsible, transparent, and ethical manner. This framework is essential for protecting the interests of all stakeholders, including depositors, shareholders, regulators, and the public. Unlike other businesses, banks have a unique and critical role in the economy, so their governance systems are subject to strict and extensive regulation to ensure financial stability.
 
-!\[Governance](Slide30.JPG)
+![Governance](images/Slide30.JPG)
 
 Key Principles of Governance and Control
 The principles of effective banking governance are rooted in the need for a strong internal structure and external oversight.
@@ -108,4 +108,5 @@ Sustainability \& ESG disclosures (increasingly mandatory)
 
 ✅ In summary:
 Governance and control in banking ensures accountability, compliance, risk mitigation, and transparency, through regulatory frameworks, board oversight, risk governance, and internal control mechanisms—all aimed at maintaining financial stability and trust.
+
 
