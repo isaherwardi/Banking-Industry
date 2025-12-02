@@ -14,7 +14,7 @@ Build customer and investor trust.
 
 2. Major Types of Risks
 
-!\[Risks](images/Slide26.JPG)
+!\[Risks](/images/Slide26.JPG)
 
 🔹 Credit Risk – Risk of borrower default (loans, mortgages, bonds).
 
@@ -86,6 +86,7 @@ AML/KYC laws – global compliance.
 
 ✅ In summary:
 Risk management in banking is about identifying, assessing, mitigating, and monitoring risks across credit, market, operational, and compliance domains, supported by governance frameworks, advanced analytics, and regulatory standards to ensure stability and resilience.
+
 
 
 
