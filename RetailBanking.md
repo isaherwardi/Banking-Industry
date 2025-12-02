@@ -2,6 +2,8 @@
 
 Retail banking, also known as consumer banking or personal banking, is the most common form of banking. It focuses on providing financial services to individual customers and small businesses, rather than to large corporations or other financial institutions (which is the domain of commercial or corporate banking).
 
+![BVF](/images/Slide10.JPG)
+
 The core of retail banking is to facilitate the day-to-day financial needs of the general public.
 
 Key Products and Services
@@ -157,6 +159,7 @@ CRM / Customer 360°
 Data Analytics & AI (Personalization, Risk Scoring)
 
 Cybersecurity & Identity Management
+
 
 
 
